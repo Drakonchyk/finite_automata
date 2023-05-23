@@ -7,3 +7,9 @@
 Для черги використовувала вбудовану бібліотеку queue.
 Ось моя діаграма станів:
 ![image](https://github.com/Drakonchyk/finite_automata/assets/63148058/979bc247-02ea-46e9-bcd6-a9fbcc4abac0)
+Перший приклад роботи автомату:
+![image](https://github.com/Drakonchyk/finite_automata/assets/63148058/b99e5153-86b2-4a73-96c2-26d6cc1a16c2)
+![image](https://github.com/Drakonchyk/finite_automata/assets/63148058/834ca59a-a8ac-4d85-bdba-3f3640a6f960)
+Другий приклад роботи автомату:
+![image](https://github.com/Drakonchyk/finite_automata/assets/63148058/c0f03dc6-e41c-4ac3-8c80-c6d317077673)
+![image](https://github.com/Drakonchyk/finite_automata/assets/63148058/76e1eed4-6807-4200-be55-8c9045e546cf)
