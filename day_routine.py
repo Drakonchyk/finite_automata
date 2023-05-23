@@ -118,7 +118,7 @@ class DailyRoutineAutomata:
             print(f"Hour {hour}")
             if 0 <= hour < 8:
                 self.current_state = random.choice(self.current_state.transitions)
-                while self.current_state not in (SLEEP, STUDY, STRESS):
+                while self.current_state == EAT:
                     self.current_state = random.choice(self.current_state.transitions)
                 if 3 < hour < 8 and self.sleep_counter == 0:
                     print("Well, it's time to sleep already")
